@@ -24,7 +24,7 @@ styles = {
     "nav": {
         "background-color": "#1B4842",
         "justify-content": "center",
-        "font-family": "Poppins",
+        "font-family": 'Poppins',
     },
     "img": {
         "padding-right": "14px",
