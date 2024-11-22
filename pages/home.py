@@ -50,7 +50,7 @@ def show_home():
                         </li>
                         <li><b>Proses Klasifikasi:</b> Setelah gambar diunggah, aplikasi akan menganalisis dan memberikan hasil deteksi secara otomatis.</li>
                         <li><b>Hasil Deteksi:</b> Nama serangga dan deskripsi singkatnya akan ditampilkan. Anda juga dapat melihat peran serangga dalam ekosistem.</li>
-                        <li><b>Hubungi Kami:</b> Jika Anda menemui masalah, gunakan informasi kontak untuk mendapatkan bantuan lebih lanjut.</li>
+                        <li><b>Hubungi Saya:</b> Jika Anda menemui masalah, gunakan informasi kontak untuk mendapatkan bantuan lebih lanjut.</li>
                     </ol>
                 </div>
         """, unsafe_allow_html=True)
