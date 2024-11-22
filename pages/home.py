@@ -66,7 +66,7 @@ def show_home():
 
     st.markdown("""
                 <div class="subsection">
-                    <div class="subheader">🎯Tujuan Kami**</div>
+                    <div class="subheader">🎯Tujuan Kami</div>
                     <br>
                     <ul>
                         <li>📖 <b>Pengenalan tentang tiap jenis Serangga</b>:Memahami nama latin serangga dan bagaimana siklus hidup serangga</li>

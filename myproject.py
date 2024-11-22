@@ -4,7 +4,11 @@ from utils import add_background
 from streamlit_navigation_bar import st_navbar
 import pages as pg
 
-st.set_page_config(initial_sidebar_state="collapsed")
+st.set_page_config(
+    page_title="Insect Animal Classification",
+    page_icon="🦗",
+    initial_sidebar_state="collapsed"
+    )
 
 # Gunakan path absolut untuk file background
 image_path = r"D:\KULIAH UNY\SEMESTER 5 TI\Aplikasi Web\PraktikumStreamlit\finalproject\src\image\bg.png"
