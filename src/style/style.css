@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.title {
+    font-size: 40px;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    items-align: center;
+}
+
+.section{
+    background-color: #1F503E;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    margin: 30px 0;
+    padding: 30px;
+    transition: transform 0.3s;
+}
+
+.section:hover {
+    transform: scale(1.05); 
+}
+
+.subsection {
+    background-color: #326F54;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+    padding: 30px;
+    transition: transform 0.3s;
+}
+
+.subsection:hover {
+    transform: scale(1.05);
+}
+
+.header {
+    font-size: 35px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+}
+
+.subheader {
+    font-size: 25px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+}
+
+.custom-radio {
+    font-family: Arial, sans-serif;
+    margin: 10px 0;
+}
+
+.custom-radio label {
+    font-size: 16px;
+    padding: 10px;
+    margin-right: 10px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.custom-radio input[type="radio"] {
+    display: none;
+}
+
+.custom-radio input[type="radio"]:checked + label {
+    background-color: #008cba;
+    color: white;
+    font-weight: bold;
+}
+
+.criteria {
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+    padding: 30px;
+    transition: transform 0.3s, background-color 0.3s;
+    background-color: rgba(30, 80, 62, 0.5); 
+}
+
+.criteria:hover {
+    background-color: rgba(30, 80, 62, 0.3); 
+    transform: scale(1.05); 
+}
+
+.desc{
+    font-size: 16px;
+    padding: 10px;
+}
+
+.paragraf{
+    text-align: justify;
+    line-height: 1.6;
+    font-size: 16px;
+}
+
+.content_position{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.circle {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin: 10px auto;
+    align-items: center;
+    text-align: center;
+}
+
