@@ -10,8 +10,8 @@ st.set_page_config(
     initial_sidebar_state="collapsed"
     )
 
-# Gunakan path absolut untuk file background
-image_path = r"D:\KULIAH UNY\SEMESTER 5 TI\Aplikasi Web\PraktikumStreamlit\finalproject\src\image\bg.png"
+
+image_path = r"./src/image/bg.png"
 
 # Tambahkan background
 add_background(image_path)
