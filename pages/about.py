@@ -80,7 +80,7 @@ def show_about():
                         <b>Email:</b> <a href="mailto:atakadzulfikar@gmail.com">atakadzulfikar.2022@student.uny.ac.id</a><br>
                         <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/ataka-dzulfikar" target="_blank">Ataka Dzulfikar</a><br>
                         <b>Instagram:</b> <a href="https://www.instagram.com/atakazulfikar" target="_blank">@ataka_zulfikar</a><br>
-                        <b>GitHub:</b> <a href="https://github.com/atzulf" target="_blank">GitHub</a><br>
+                        <b>GitHub:</b> <a href="https://github.com/atzulf/insectdetection" target="_blank">GitHub</a><br>
                     </div>
                 </div>
         """, unsafe_allow_html=True)
