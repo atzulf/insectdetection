@@ -77,7 +77,7 @@ def show_about():
                     </div>
                     <br>
                     <div class="content_position">
-                        <b>Email:</b> <a href="mailto:atakadzulfikar@gmail.com">atakadzulfikar.2022@student.uny.ac.id</a><br>
+                        <b>Email:</b> <a href="mailto:atakadzulfikar.2022@student.uny.ac.id">atakadzulfikar.2022@student.uny.ac.id</a><br>
                         <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/ataka-dzulfikar" target="_blank">Ataka Dzulfikar</a><br>
                         <b>Instagram:</b> <a href="https://www.instagram.com/atakazulfikar" target="_blank">@ataka_zulfikar</a><br>
                         <b>GitHub:</b> <a href="https://github.com/atzulf/insectdetection" target="_blank">GitHub</a><br>
