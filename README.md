@@ -1,5 +1,6 @@
 # 🦟 Aplikasi Deteksi Serangga Menggunakan Streamlit  
 Aplikasi **Deteksi Serangga** adalah alat berbasis web yang dirancang untuk membantu mengidentifikasi jenis serangga dari gambar yang diunggah pengguna. Dengan menggunakan teknologi pembelajaran mesin, aplikasi ini mampu mengklasifikasikan serangga ke dalam beberapa kategori, seperti kupu-kupu, capung, belalang, dan lainnya.  
+Link Website : https://insectdetection-zoulv.streamlit.app/
 
 Aplikasi ini juga memberikan informasi singkat mengenai serangga yang terdeteksi, termasuk peranannya dalam ekosistem.  
 
